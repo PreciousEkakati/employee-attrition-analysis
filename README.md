@@ -32,7 +32,7 @@ The organization experienced rising employee attrition and required data-driven 
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard-overview.png)
+![Dashboard](https://github.com/PreciousEkakati/employee-attrition-analysis/blob/main/Employee%20Attrition%20Analysis.jpg?raw=true)
 
 ## Key Insights
 
